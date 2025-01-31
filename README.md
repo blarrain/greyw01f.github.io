@@ -1,15 +1,7 @@
-# CV de Ramiro García Strohm
+# Fork de CV de Ramiro García Strohm
 
-## Descripción
+Forkeado como parte de la evaluación del módulo **Introducción al desarrollo web (G91)** del Bootcamp en Desarrollo Web Full-Stack de Academia Desafío Latam
 
-Creado a partir de una plantilla de [gsanchezd](https://github.com/gsanchezd/) como parte de la evaluación del módulo Introducción al desarrollo web (G91)
-## Prueba Desafío Latam📋
-
-Como parte de la evaluación del módulo **Introducción al desarrollo web (G91)** se realizaron forkeos a los trabajos de los siguientes compañer@s
-- [Fork a jvillegas36](https://github.com/greyw01f/jvillegas36.github.io)- Un fork
-- [Fork a isra-osvaldo](https://github.com/greyw01f/isra-osvaldo.github.io) - Dos fork
-
-
-## Autor✒️
+## Autor original✒️
 
 - **Ramiro García Strohm** -Prueba final - [greyw01f](https://github.com/greyw01f)
